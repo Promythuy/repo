@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+build/
+out/
+
+# vcpkg temporary
+vcpkg-configuration.json
