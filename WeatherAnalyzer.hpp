@@ -11,6 +11,7 @@ private:
     string condition;
 
 public:
+    WeatherAnalyzer();
     WeatherAnalyzer(double temp, int hum, string cond);
     string getConditionAdvice() const;
     string getTemperatureAdvice() const;

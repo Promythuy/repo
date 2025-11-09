@@ -9,5 +9,5 @@
 build/
 out/
 
-# vcpkg temporary
+# vcpkg
 vcpkg-configuration.json
