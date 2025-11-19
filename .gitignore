@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VS Code
 .vscode/
 *.code-workspace
@@ -15,3 +16,18 @@ Makefile
 *.pdb
 *.idb
 *.log
+=======
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+build/
+out/
+
+# vcpkg
+vcpkg-configuration.json
+>>>>>>> acdf2e35dc21d2503e78f5494348323aeeedc7c3
