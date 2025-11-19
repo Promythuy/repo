@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Windows
+*.exe
+*.obj
+*.pdb
+*.idb
+*.log
